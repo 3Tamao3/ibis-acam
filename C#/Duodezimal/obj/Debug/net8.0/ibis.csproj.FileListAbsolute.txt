@@ -1,0 +1,14 @@
+/home/tamao/ibis/bin/Debug/net8.0/ibis
+/home/tamao/ibis/bin/Debug/net8.0/ibis.deps.json
+/home/tamao/ibis/bin/Debug/net8.0/ibis.runtimeconfig.json
+/home/tamao/ibis/bin/Debug/net8.0/ibis.dll
+/home/tamao/ibis/bin/Debug/net8.0/ibis.pdb
+/home/tamao/ibis/obj/Debug/net8.0/ibis.GeneratedMSBuildEditorConfig.editorconfig
+/home/tamao/ibis/obj/Debug/net8.0/ibis.AssemblyInfoInputs.cache
+/home/tamao/ibis/obj/Debug/net8.0/ibis.AssemblyInfo.cs
+/home/tamao/ibis/obj/Debug/net8.0/ibis.csproj.CoreCompileInputs.cache
+/home/tamao/ibis/obj/Debug/net8.0/ibis.dll
+/home/tamao/ibis/obj/Debug/net8.0/refint/ibis.dll
+/home/tamao/ibis/obj/Debug/net8.0/ibis.pdb
+/home/tamao/ibis/obj/Debug/net8.0/ibis.genruntimeconfig.cache
+/home/tamao/ibis/obj/Debug/net8.0/ref/ibis.dll
